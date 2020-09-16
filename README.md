@@ -2,7 +2,7 @@
 
 ### Made with _React_
 
-https://react-counterv1.netlify.app
+https://deliveroo-replique.netlify.app
 
   <img src="./picture.png" width="450" alt="picture Deliveroo">
 
