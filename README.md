@@ -1,9 +1,12 @@
-## Réplique Deliveroo
+# Deliveroo Replica
 
-### Made with _React_
+### _Languages_ & _Packages_
 
-https://deliveroo-replique.netlify.app
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+Axios
 
-  <img src="./picture.png" width="450" alt="picture Deliveroo">
+### _Deployment_
 
-<img src="./picture2.png" width="450" alt="picture Deliveroo Panier">
+[Netlify](https://deliveroo-replique.netlify.app)
+
+  <img src="./src/assets/Deliveroo.png" width="350" alt="Deliveroo">
